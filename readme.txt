@@ -3,8 +3,8 @@ Contributors: plizzo
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=APEQE63QALKHA&lc=SE&item_name=Simple%20Template%20Columns&item_number=simple%2dtemplate%2dcolumns&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: templates, columns, content, page, loop, custom fields, advanced custom fields
 Requires at least: 3.2.1
-Tested up to: 3.4.2
-Stable tag: 1.0
+Tested up to: 3.5.1
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -49,6 +49,9 @@ When it comes to creating custom fields there are many ways. Although, I prefer 
 If you have some ideas for new features or improvements I would love to hear about them.. You can get in touch with me by [sending me an email](mailto:contact@jonathanlundstrom.me "My email-address").
 
 == Changelog ==
+
+= 1.0.2 =
+* Updated Plugin URI, changed a text string…
 
 = 1.0 =
 * Initial plugin release

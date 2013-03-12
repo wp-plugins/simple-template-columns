@@ -2,7 +2,7 @@
 
 	/*
 		Plugin Name: Simple Template Columns
-		Plugin URI: http://www.jonathanlundstrom.me
+		Plugin URI: http://wordpress.org/extend/plugins/simple-template-columns/
 		Description: A small plugin that allows theme developers to easily set up multi-column templates.
 		Version: 1.0
 		Author: Jonathan Lundström
